@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Mouhssine Es-Safy
 
-<!--
-**MouhssineEs-Safy/MouhssineEs-Safy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web & Mobile Developer in progress from Morocco 🇲🇦
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Node.js
+- Express.js
+- PostgreSQL
+- Sequelize
+- Git & GitHub
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express.js
+- PostgreSQL
+- Git
+- GitHub
+
+## 📂 Current Projects
+
+- 🚜 Fellah Connect
+- 📚 Learning Journey
+- 📝 REST API Projects
+
+## 🎯 Goal
+
+My goal is to become a Full Stack Developer by building real-world projects, improving my problem-solving skills, and contributing to open-source projects.
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/MouhssineEs-Safy
+- LinkedIn: https://www.linkedin.com/in/mouhssine-es-safy-2b08763b8/
