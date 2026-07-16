@@ -40,7 +40,6 @@ My goal is to become a Full Stack Developer by building real-world projects, imp
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MouhssineEs-Safy&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouhssineEs-Safy&layout=compact&theme=tokyonight" />
-</p>
+![Mouhssine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MouhssineEs-Safy&show_icons=true&theme=github_dark&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MouhssineEs-Safy&layout=compact&theme=github_dark&cache_seconds=1800)
