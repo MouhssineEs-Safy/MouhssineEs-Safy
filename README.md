@@ -36,3 +36,11 @@ My goal is to become a Full Stack Developer by building real-world projects, imp
 
 - GitHub: https://github.com/MouhssineEs-Safy
 - LinkedIn: https://www.linkedin.com/in/mouhssine-es-safy-2b08763b8/
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MouhssineEs-Safy&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouhssineEs-Safy&layout=compact&theme=tokyonight" />
+</p>
