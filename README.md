@@ -54,3 +54,11 @@ My goal is to become a Full Stack Developer by building real-world projects, imp
 ![Mouhssine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MouhssineEs-Safy&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MouhssineEs-Safy&layout=compact&theme=github_dark&cache_seconds=1800)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MouhssineEs-Safy&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
